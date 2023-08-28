@@ -7,7 +7,7 @@ Data Release Life Cycle
 [This project](https://github.com/data-engineering-helpers/data-life-cycle)
 intends to document requirements and referential material about data life cycle,
 in particular to differentiate it from the
-[Software Development Life Cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle).
+[software delivery](https://martinfowler.com/delivery.html).
 
 Even though the members of the GitHub organization may be employed by some companies, they speak on their personal behalf and do not represent these companies.
 
@@ -17,7 +17,21 @@ Even though the members of the GitHub organization may be employed by some compa
 
 ### Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
 * Title: Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
-* Date: Aug. 2023
+* Date: 2 Aug. 2023
 * Publisher: [Enigma engineering blog](https://enigma.com/blog/topic/engineering)
 * Link to the article:
   https://enigma.com/blog/post/dev-stage-prod-is-the-wrong-pattern-for-data-pipelines
+
+## Books
+
+### Continuous Delivery
+* Title: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+* Authors: Jez Humble and David Farley
+  + Foreword by [Martin Fowler](https://martinfowler.com/)
+* Date: 27 Jul. 2010
+* ASIN:‎ 0321601912
+* Publisher: ‎Addison-Wesley Professional; 1st edition
+* ISBN-10: ‎ 9780321601919
+* ISBN-13: ‎ 978-0321601919
+* Link to the book home page:
+  https://martinfowler.com/bliki/ContinuousDelivery.html

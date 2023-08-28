@@ -22,6 +22,14 @@ Even though the members of the GitHub organization may be employed by some compa
 * Link to the article:
   https://enigma.com/blog/post/dev-stage-prod-is-the-wrong-pattern-for-data-pipelines
 
+### How to Implement Write-Audit-Publish (WAP)
+* Title: How to Implement Write-Audit-Publish (WAP)
+* Date: May 2023
+* Author: [Robin Moffatt](https://www.linkedin.com/in/robinmoffatt/]
+* Link to the article:
+  https://lakefs.io/blog/how-to-implement-write-audit-publish/
+* Publisher: LakeFS
+
 ### Virtual Data Environments
 * Title: Virtual Data Environments
 * Date: 18 April 2023

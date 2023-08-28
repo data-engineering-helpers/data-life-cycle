@@ -43,3 +43,20 @@ Even though the members of the GitHub organization may be employed by some compa
 * ISBN-13: ‎ 978-0321601919
 * Link to the book home page:
   https://martinfowler.com/bliki/ContinuousDelivery.html
+
+# Frameworks / tools
+
+## LakeFS
+* Home page: https://github.com/treeverse/lakeFS
+
+lakeFS is an open-source tool that transforms your object storage into a Git-like repository.
+It enables you to manage your data lake the way you manage your code.
+
+With lakeFS you can build repeatable, atomic, and versioned data lake
+operations - from complex ETL jobs to data science and analytics.
+
+lakeFS supports AWS S3, Azure Blob Storage, and Google Cloud Storage as its underlying storage service.
+It is API compatible with S3 and works seamlessly with all modern data frameworks such as Spark,
+Hive, AWS Athena, DuckDB, and Presto.
+
+For more information, see the [documentation](https://docs.lakefs.io/).

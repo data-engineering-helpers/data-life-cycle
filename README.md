@@ -22,6 +22,14 @@ Even though the members of the GitHub organization may be employed by some compa
 * Link to the article:
   https://enigma.com/blog/post/dev-stage-prod-is-the-wrong-pattern-for-data-pipelines
 
+### Virtual Data Environments
+* Title: Virtual Data Environments
+* Date: 18 April 2023
+* Author: [Iaroslav Zeigerman](https://www.linkedin.com/in/izeigerman/)
+* Link to the article:
+  https://tobikodata.com/virtual-data-environments.html
+* Publisher: [Tobiko Data](https://tobikodata.com/)
+
 ## Books
 
 ### Continuous Delivery

@@ -22,10 +22,18 @@ Even though the members of the GitHub organization may be employed by some compa
 * Link to the article:
   https://enigma.com/blog/post/dev-stage-prod-is-the-wrong-pattern-for-data-pipelines
 
+### Putting the Write-Audit-Publish Pattern (WAP) into Practice with lakeFS
+* Title: Putting the Write-Audit-Publish Pattern into Practice with lakeFS
+* Date: June 2023
+* Author: [Robin Moffatt](https://www.linkedin.com/in/robinmoffatt/)
+* Link to the article:
+  https://lakefs.io/blog/write-audit-publish-with-lakefs/
+* Publisher: LakeFS
+
 ### How to Implement Write-Audit-Publish (WAP)
 * Title: How to Implement Write-Audit-Publish (WAP)
 * Date: May 2023
-* Author: [Robin Moffatt](https://www.linkedin.com/in/robinmoffatt/]
+* Author: [Robin Moffatt](https://www.linkedin.com/in/robinmoffatt/)
 * Link to the article:
   https://lakefs.io/blog/how-to-implement-write-audit-publish/
 * Publisher: LakeFS

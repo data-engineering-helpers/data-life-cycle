@@ -15,6 +15,15 @@ Even though the members of the GitHub organization may be employed by some compa
 
 ## Articles
 
+### Testing, Monitoring, and Observability
+* Title: The Data Engineer’s Guide to Testing, Monitoring, and Observability
+* Date: Dec. 2024
+* Author: Alex Caruso
+  ([Alex Caruso on LinkedIn](https://www.linkedin.com/in/alexander-caruso/),
+  [Alex Caruso on Airbyte blog](https://airbyte.com/blog-authors/alex-caruso))
+* Link to the article: https://airbyte.com/blog/the-data-engineers-guide-to-testing-monitoring-and-observability
+* Publisher: Airbyte blog
+
 ### Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
 * Title: Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
 * Date: 2 Aug. 2023

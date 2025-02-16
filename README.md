@@ -15,6 +15,17 @@ Even though the members of the GitHub organization may be employed by some compa
 
 ## Articles
 
+### Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
+* Title: Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
+* Date: Feb. 2025
+* Author: Zakariah Siyaji
+  ([Zakariah Siyaji on LinkedIn](https://www.linkedin.com/in/zakariah-siyaji/),
+  [Zakariah Siyaji on Medium](https://medium.com/@zaki.siyaji))
+* Link to the post on LinkedIn by Chad Sanderson:
+  https://www.linkedin.com/posts/chad-sanderson_many-companies-talk-about-implementing-data-activity-7296212049565515777-dnCn/
+* Link to the article on Medium:
+  https://medium.com/glassdoor-engineering/data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle-7052361307a4
+
 ### Testing, Monitoring, and Observability
 * Title: The Data Engineer’s Guide to Testing, Monitoring, and Observability
 * Date: Dec. 2024

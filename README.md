@@ -2,20 +2,33 @@ Data Release Life Cycle
 =======================
 
 # Table of Content (ToC)
+* [Overview](#overview)
+* [Articles](#articles)
+  * [Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle](#data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle)
+  * [Testing, Monitoring, and Observability](#testing-monitoring-and-observability)
+  * [Dev/Stage/Prod is the Wrong Pattern for Data Pipelines](#devstageprod-is-the-wrong-pattern-for-data-pipelines)
+  * [Putting the Write\-Audit\-Publish Pattern (WAP) into Practice with lakeFS](#putting-the-write-audit-publish-pattern-wap-into-practice-with-lakefs)
+  * [How to Implement Write\-Audit\-Publish (WAP)](#how-to-implement-write-audit-publish-wap)
+  * [Virtual Data Environments](#virtual-data-environments)
+* [Books](#books)
+  * [Continuous Delivery](#continuous-delivery)
+* [Frameworks / tools](#frameworks--tools)
+  * [LakeFS](#lakefs)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Overview
 [This project](https://github.com/data-engineering-helpers/data-life-cycle)
 intends to document requirements and referential material about data life cycle,
 in particular to differentiate it from the
-[software delivery](https://martinfowler.com/delivery.html).
+[software delivery life cycle (SDLC)](https://martinfowler.com/delivery.html).
 
-Even though the members of the GitHub organization may be employed by some companies, they speak on their personal behalf and do not represent these companies.
+Even though the members of the GitHub organization may be employed by some companies,
+they speak on their personal behalf and do not represent these companies.
 
-# References
+# Articles
 
-## Articles
-
-### Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
+## Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
 * Title: Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
 * Date: Feb. 2025
 * Author: Zakariah Siyaji
@@ -25,8 +38,10 @@ Even though the members of the GitHub organization may be employed by some compa
   https://www.linkedin.com/posts/chad-sanderson_many-companies-talk-about-implementing-data-activity-7296212049565515777-dnCn/
 * Link to the article on Medium:
   https://medium.com/glassdoor-engineering/data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle-7052361307a4
+  * ![Medium - Data Life Cycle at Glassdoor](images/glassdoor-article-data-life-cycle.webp)
+  * ![Medium - Data Life Cycle at Glassdoor - Details](images/glassdoor-article-data-life-cycle-details.webp)
 
-### Testing, Monitoring, and Observability
+## Testing, Monitoring, and Observability
 * Title: The Data Engineer’s Guide to Testing, Monitoring, and Observability
 * Date: Dec. 2024
 * Author: Alex Caruso
@@ -35,14 +50,14 @@ Even though the members of the GitHub organization may be employed by some compa
 * Link to the article: https://airbyte.com/blog/the-data-engineers-guide-to-testing-monitoring-and-observability
 * Publisher: Airbyte blog
 
-### Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
+## Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
 * Title: Dev/Stage/Prod is the Wrong Pattern for Data Pipelines
 * Date: 2 Aug. 2023
 * Publisher: [Enigma engineering blog](https://enigma.com/blog/topic/engineering)
 * Link to the article:
   https://enigma.com/blog/post/dev-stage-prod-is-the-wrong-pattern-for-data-pipelines
 
-### Putting the Write-Audit-Publish Pattern (WAP) into Practice with lakeFS
+## Putting the Write-Audit-Publish Pattern (WAP) into Practice with lakeFS
 * Title: Putting the Write-Audit-Publish Pattern into Practice with lakeFS
 * Date: June 2023
 * Author: [Robin Moffatt](https://www.linkedin.com/in/robinmoffatt/)
@@ -50,7 +65,7 @@ Even though the members of the GitHub organization may be employed by some compa
   https://lakefs.io/blog/write-audit-publish-with-lakefs/
 * Publisher: LakeFS
 
-### How to Implement Write-Audit-Publish (WAP)
+## How to Implement Write-Audit-Publish (WAP)
 * Title: How to Implement Write-Audit-Publish (WAP)
 * Date: May 2023
 * Author: [Robin Moffatt](https://www.linkedin.com/in/robinmoffatt/)
@@ -58,7 +73,7 @@ Even though the members of the GitHub organization may be employed by some compa
   https://lakefs.io/blog/how-to-implement-write-audit-publish/
 * Publisher: LakeFS
 
-### Virtual Data Environments
+## Virtual Data Environments
 * Title: Virtual Data Environments
 * Date: 18 April 2023
 * Author: [Iaroslav Zeigerman](https://www.linkedin.com/in/izeigerman/)
@@ -66,9 +81,9 @@ Even though the members of the GitHub organization may be employed by some compa
   https://tobikodata.com/virtual-data-environments.html
 * Publisher: [Tobiko Data](https://tobikodata.com/)
 
-## Books
+# Books
 
-### Continuous Delivery
+## Continuous Delivery
 * Title: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 * Authors: Jez Humble and David Farley
   + Foreword by [Martin Fowler](https://martinfowler.com/)
@@ -96,3 +111,5 @@ It is API compatible with S3 and works seamlessly with all modern data framework
 Hive, AWS Athena, DuckDB, and Presto.
 
 For more information, see the [documentation](https://docs.lakefs.io/).
+
+

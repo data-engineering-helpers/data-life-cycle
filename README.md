@@ -3,6 +3,7 @@ Data Release Life Cycle
 
 # Table of Content (ToC)
 * [Overview](#overview)
+  * [Other repositories of Data Engineering helpers](#other-repositories-of-data-engineering-helpers)
 * [Articles](#articles)
   * [Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle](#data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle)
   * [Testing, Monitoring, and Observability](#testing-monitoring-and-observability)
@@ -26,6 +27,17 @@ in particular to differentiate it from the
 Even though the members of the GitHub organization may be employed by some companies,
 they speak on their personal behalf and do not represent these companies.
 
+## Other repositories of Data Engineering helpers
+* [Data Engineering Helpers - Knowledge Sharing - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
+* [Data Engineering Helpers - Knowledge Sharing - Data products](https://github.com/data-engineering-helpers/data-products)
+* [Data Engineering Helpers - Knowledge Sharing - Data quality](https://github.com/data-engineering-helpers/data-quality)
+* [Data Engineering Helpers - Knowledge Sharing - Data pipeline deployment](https://github.com/data-engineering-helpers/data-pipeline-deployment)
+* [Data Engineering Helpers - Knowledge Sharing - Data lakehouse](https://github.com/data-engineering-helpers/data-lakehouse)
+* [Data Engineering Helpers - Knowledge Sharing - Data management](https://github.com/data-engineering-helpers/data-management)
+* [Data Engineering Helpers - Knowledge Sharing - Metadata](https://github.com/data-engineering-helpers/metadata)
+* [Data Engineering Helpers - Knowledge Sharing - Architecture principles](https://github.com/data-engineering-helpers/architecture-principles)
+* [Data Engineering Helpers - Knowledge Sharing - Semantic layer](https://github.com/data-engineering-helpers/semantic-layer)
+
 # Articles
 
 ## Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
@@ -40,6 +52,8 @@ they speak on their personal behalf and do not represent these companies.
   https://medium.com/glassdoor-engineering/data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle-7052361307a4
   * ![Medium - Data Life Cycle at Glassdoor](images/glassdoor-article-data-life-cycle.webp)
   * ![Medium - Data Life Cycle at Glassdoor - Details](images/glassdoor-article-data-life-cycle-details.webp)
+* Also referenced in
+  [Data Engineering Helpers - Knowledge Sharing - Data contracts](https://github.com/data-engineering-helpers/data-contracts?tab=readme-ov-file#data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle)
 
 ## Testing, Monitoring, and Observability
 * Title: The Data Engineer’s Guide to Testing, Monitoring, and Observability

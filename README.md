@@ -5,6 +5,7 @@ Data Release Life Cycle
 * [Overview](#overview)
   * [Other repositories of Data Engineering helpers](#other-repositories-of-data-engineering-helpers)
 * [Articles](#articles)
+  * [Database Migration Terminology 101](#database-migration-terminology-101)
   * [Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle](#data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle)
   * [Testing, Monitoring, and Observability](#testing-monitoring-and-observability)
   * [Dev/Stage/Prod is the Wrong Pattern for Data Pipelines](#devstageprod-is-the-wrong-pattern-for-data-pipelines)
@@ -39,6 +40,13 @@ they speak on their personal behalf and do not represent these companies.
 * [Data Engineering Helpers - Knowledge Sharing - Semantic layer](https://github.com/data-engineering-helpers/semantic-layer)
 
 # Articles
+
+## Database Migration Terminology 101
+* Title: Database Migration Terminology 101
+* Date: Feb. 2025
+* Author: Tom Baeyens
+* Link to the post on LinkedIn:
+  https://www.linkedin.com/posts/tombaeyens_database-migration-terminology-101-source-activity-7297573805609156609-ZrQW/
 
 ## Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle
 * Title: Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle

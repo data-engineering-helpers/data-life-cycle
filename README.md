@@ -5,6 +5,7 @@ Data Release Life Cycle
 * [Overview](#overview)
   * [Other repositories of Data Engineering helpers](#other-repositories-of-data-engineering-helpers)
 * [Articles](#articles)
+  * [Data virtualization](#data-virtualization)
   * [Database Migration Terminology 101](#database-migration-terminology-101)
   * [Data Quality at Petabyte Scale: Building Trust in the Data Lifecycle](#data-quality-at-petabyte-scale-building-trust-in-the-data-lifecycle)
   * [Testing, Monitoring, and Observability](#testing-monitoring-and-observability)
@@ -47,7 +48,7 @@ they speak on their personal behalf and do not represent these companies.
   ([Mariusz Kujawski on LinkedIn](https://www.linkedin.com/in/mariusz-kujawski-de))
 * Link to the post on LinkedIn:
   https://www.linkedin.com/posts/mariusz-kujawski-de_datavirtualization-dataengineering-dataengineerdiary-activity-7360591974363553793-1FJV/
-* <img width="200" alt="image" src="https://github.com/user-attachments/assets/b8fb49e4-c8e6-4b8f-b940-6b134e8819a8" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/b8fb49e4-c8e6-4b8f-b940-6b134e8819a8" />
 
 ## Database Migration Terminology 101
 * Title: Database Migration Terminology 101

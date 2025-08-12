@@ -41,6 +41,14 @@ they speak on their personal behalf and do not represent these companies.
 
 # Articles
 
+## Data virtualization
+* Date: Aug. 2025
+* Author: Mariusz Kujawski
+  ([Mariusz Kujawski on LinkedIn](https://www.linkedin.com/in/mariusz-kujawski-de))
+* Link to the post on LinkedIn:
+  https://www.linkedin.com/posts/mariusz-kujawski-de_datavirtualization-dataengineering-dataengineerdiary-activity-7360591974363553793-1FJV/
+* <img width="200" alt="image" src="https://github.com/user-attachments/assets/b8fb49e4-c8e6-4b8f-b940-6b134e8819a8" />
+
 ## Database Migration Terminology 101
 * Title: Database Migration Terminology 101
 * Date: Feb. 2025
